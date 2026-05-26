@@ -60,15 +60,6 @@ During my technical development programs at GoIT, I frequently assumed the **Tea
 
 ---
 
-### 📊 GitHub Activity & Insights
-
-<p align="left">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=Volodymyr-Sainchuk&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Volodymyr's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Volodymyr-Sainchuk&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages Used" height="180px" />
-</p>
-
----
-
 ### 📨 Let's Connect!
 
 * **💼 LinkedIn:** https://www.linkedin.com/feed/
