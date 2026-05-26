@@ -36,16 +36,16 @@ I love solving complex optimization problems, discovering cutting-edge technolog
 
 ### 🚀 Highlighted Projects
 
-#### 📌 [Full-Stack Task Management Application](https://github.com/Volodymyr-Sainchuk/FullStack-test-task)
-*A high-performance task management application built to fulfill complex real-world edge cases.*
+#### 📌 Task Management Application
+*A high-performance task management application built to handle complex enterprise workflows and modern data streams.*
 * **Frontend:** Next.js, TypeScript, React Hook Form, Axios, Tailwind CSS.
 * **Backend:** NestJS, TypeScript, Prisma ORM, SQLite.
-* **Key Features:** * Strict backend validation limiting users to 5 active tasks per single category (`400 Bad Request`).
-  * 5-second transient undo mechanism (`Optimistic UI` + Snackbar state transitions).
-  * Implemented advanced **Bulk Actions** to toggle, track, and complete batch items simultaneously.
-  * Fully containerized environment via `Docker Compose` for seamless cross-platform deployment.
+* **Key Features:** * Strict backend validation limiting users to 5 active tasks per single category to prevent data congestion (`400 Bad Request`).
+  * 5-second transient undo mechanism driven by an elegant `Optimistic UI` state engine and Snackbar alerts.
+  * Advanced **Bulk Actions** layer to track, toggle, and execute clean batch data removals synchronously.
+  * Fully containerized workspace via `Docker Compose` for instant cross-platform production deployments.
 
-#### 📌 [Notes Hub Application]
+#### 📌 Notes Hub Application
 *A secure web interface optimized for structuring personal data, notes tracking, and tag querying.*
 * **Stack:** React.js, Node.js, Express.js, PostgreSQL.
 * **Key Features:** Full CRUD engine, dynamic state filters, responsive desktop/mobile grid configurations, and secure JWT-based stateless user workflows.
@@ -63,8 +63,8 @@ During my technical development programs at GoIT, I frequently assumed the **Tea
 ### 📊 GitHub Activity & Insights
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Volodymyr-Sainchuk&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Volodymyr's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Volodymyr-Sainchuk&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages Used" height="180px" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=Volodymyr-Sainchuk&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Volodymyr's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Volodymyr-Sainchuk&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages Used" height="180px" />
 </p>
 
 ---
